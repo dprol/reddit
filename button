@@ -1,0 +1,8 @@
+<a id="#top"></a>
+<header>
+  <p><a href="#top">Reddit!</a> all</p>
+  <div id="time"></div>
+</header>
+<div class="content">
+  <div id="list"></div>
+</div>
