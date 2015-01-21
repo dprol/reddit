@@ -1,8 +1,18 @@
-<a id="#top"></a>
+<!DOCTYPE html>
+<head lang="es">
+  <meta charset="UTF-8"/>
+</head>
+<body>
 <header>
-  <p><a href="#top">Reddit!</a> all</p>
+<a id="#top"></a>
+  <p><a href="reddit.com">Reddit!</a> all</p>
+  <!-- DIV VACIO !-->
   <div id="time"></div>
-</header>
-<div class="content">
+  <!-- DIV VACIO !-->
+  <div class="content">
+  <!-- DIV VACÍO !-->
   <div id="list"></div>
 </div>
+</header>
+</body>
+</html>
